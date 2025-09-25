@@ -63,28 +63,6 @@ Implementation Process (Step by Step):
 5.Enable farmers to upload pest/disease images for diagnosis.
 6.Provide alerts via SMS, app notifications, or voice call.
 7.Collect farmer feedback to continuously improve recommendations.
-
-Farmer (Input)
-     |
-     v
-Mobile App / Chatbot
-     |
-     v
-Data Collection Layer
-   (Soil Data, Weather Data, Crop History, Market Prices)
-     |
-     v
-AI/ML Processing
-   - Crop Recommendation
-   - Fertilizer Advisory
-   - Pest/Disease Detection
-     |
-     v
-Output Layer
-   - Personalized Advisory (Text/Voice)
-   - Weather Alerts
-   - Market Price Upda
-
 ## Feasibility and Viability
 Feasibility:
 AI/ML, IoT, and mobile technologies are already widely available.
