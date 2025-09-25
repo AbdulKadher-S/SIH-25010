@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
-# Date:
-## Register Number:
-## Name:
+# Date:25/09/2025
+## Register Number:25015996
+## Name:Abdul Kadher S
 ## Problem Title
 SIH 25010: Smart Crop Advisory System for Small and Marginal Farmers
 ## Problem Description
@@ -41,28 +41,28 @@ Government of Punjab
 Agriculture, FoodTech & Rural Development
 
 ## Proposed Solution
-<h3>Remove These Lines</h3>
-<ul><li>Detailed explanation of the proposed solution</li>
-<li>How it addresses the problem</li>
-<li>Innovation and uniqueness of the solution</li></ul>
+We propose to build a multilingual AI-powered mobile app that provides farmers with personalized crop and fertilizer recommendations, weather alerts, pest/disease detection, and market price updates. The app will support local languages and voice input to assist farmers with low digital literacy. This solution is unique because it combines AI, IoT, and NLP technologies in a simple and accessible platform tailored for small farmers.
 
 ## Technical Approach
-<h3>Remove These Lines</h3>
-<ul><li>Technologies to be used (e.g. programming languages, frameworks, hardware)
-</li>
-<li>Methodology and process for implementation <b>(Flow Charts/Images/ working prototype)</b></li></ul>
+Technologies: Python (AI/ML models), Flutter (mobile app), Firebase/Cloud, TensorFlow (image recognition), IoT sensors for soil data.
+
+Process:
+1.Collect soil, weather, and crop history data.
+2.Run AI model to generate recommendations.
+3.Provide advisory via app/chatbot in local language.
+4.Farmers upload pest images for disease detection.
+5.System improves continuously with farmer feedback.
 
 ## Feasibility and Viability
-<h3>Remove These Lines</h3>
-<ul><li>Analysis of the feasibility of the idea</li>
-<li>Potential challenges and risks</li>
-<li>Strategies for overcoming these challenges</li></ul>
-
+Feasible because AI/ML, IoT, and cloud technologies are already available.
+Challenges: Internet access in villages, language diversity, low literacy.
+Solutions: Offline app mode, SMS-based alerts, voice/chatbot interface, partnerships with agriculture officers.
 ## Impact and Benefits
-<h3>Remove These Lines</h3>
-<ul><li>Potential impact on the target audience</li>
-<li>Benefits of the solution (social, economic, environmental, etc.)</li></ul>
+Social: Farmers get trusted advice in their own language.
+Economic: Higher yield, reduced costs, better income.
+Environmental: Reduced chemical use, sustainable farming.
 
 ## Research and References
-<h3>Remove These Lines</h3>
-<ul><li>Details / Links of the reference and research work</li></ul>
+NABARD Report (2022) – Small & Marginal Farmers in India
+FAO study on ICT in agriculture
+Example: e-Choupal / Kisan Suvidha apps
