@@ -63,6 +63,8 @@ Implementation Process (Step by Step):
 5.Enable farmers to upload pest/disease images for diagnosis.
 6.Provide alerts via SMS, app notifications, or voice call.
 7.Collect farmer feedback to continuously improve recommendations.
+<img width="712" height="869" alt="Screenshot 2025-10-08 131630" src="https://github.com/user-attachments/assets/5e522274-15dc-4063-87c9-e0b732a9ff93" />
+
 ## Feasibility and Viability
 Feasibility:
 AI/ML, IoT, and mobile technologies are already widely available.
