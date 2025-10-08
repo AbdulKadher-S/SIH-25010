@@ -100,3 +100,5 @@ NABARD Report (2022) – Status of Small & Marginal Farmers in India
 FAO Report on ICT in Agriculture (2019)
 Case study: ITC e-Choupal
 Case study: Kisan Suvidha app
+www.ijnrd.com
+www.jetir.com
